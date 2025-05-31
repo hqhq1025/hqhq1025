@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **pytorch, deep learning**
 
-- 📝 I regularly write articles on [hqhq1025.tech](hqhq1025.tech)
+- 📝 I regularly write articles on [hqhq1025.github.io](hqhq1025.github.io)
 
 - 📫 How to reach me **hqeric1025@qq.com**
 
