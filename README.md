@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hqhq1025" alt="hqhq1025" /></a> </p>
 
-- 🌱 I’m currently learning **pytorch, deep learning**
-
-- 📝 I regularly write articles on ([hqhq1025.github.io](https://hqhq1025.github.io/))
+- 🌱 I’m currently learning **llm, mllm, pytorch, deep learning**
 
 - 📫 How to reach me **hqeric1025@qq.com**
 
