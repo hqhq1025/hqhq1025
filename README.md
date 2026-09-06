@@ -1,23 +1,20 @@
-<h1 align="center">Hi 👋, I'm haoqing</h1>
-<h3 align="center">A passionate AI learner</h3>
+# Haoqing Wang
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hqhq1025&label=Profile%20views&color=0e75b6&style=flat" alt="hqhq1025" /> </p>
+![Profile views](https://komarev.com/ghpvc/?username=hqhq1025&label=Profile%20views&color=0e75b6&style=flat)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hqhq1025" alt="hqhq1025" /></a> </p>
+BUPT undergraduate · Research intern at Microsoft Research Asia<br>
+Apache Software Foundation Committer · Apache Maka (Incubating) PPMC member
 
-- 🌱 I’m currently learning **llm, mllm, pytorch, deep learning**
+I'm exploring autonomous agents that can use computers, carry out long-horizon tasks, and improve through experience, including a better understanding of their users and workspaces. My current focus is Computer Use Agents and (Co)Work Agents.
 
-- 📫 How to reach me **hqeric1025@qq.com**
+## What I'm Building
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+I want agent capabilities to be useful beyond programming. My open-source work explores different parts of this goal:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
+- [Open Cowork](https://github.com/OpenCoworkAI/open-cowork) [![Open Cowork stars](https://img.shields.io/github/stars/OpenCoworkAI/open-cowork?style=social)](https://github.com/OpenCoworkAI/open-cowork) & [Open CoDesign](https://github.com/OpenCoworkAI/open-codesign) [![Open CoDesign stars](https://img.shields.io/github/stars/OpenCoworkAI/open-codesign?style=social)](https://github.com/OpenCoworkAI/open-codesign): exploring accessible work agents and design-centered workflows.
+- [Apache Maka](https://github.com/apache/maka) [![Apache Maka stars](https://img.shields.io/github/stars/apache/maka?style=social)](https://github.com/apache/maka): working on automation and computer use to help agents carry out real tasks with less human intervention.
+- [Skill Optimizer](https://github.com/hqhq1025/skill-optimizer) [![Skill Optimizer stars](https://img.shields.io/github/stars/hqhq1025/skill-optimizer?style=social)](https://github.com/hqhq1025/skill-optimizer): using experience from real sessions to improve reusable skills and future agent behavior.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hqhq1025&show_icons=true&locale=en&layout=compact" alt="hqhq1025" /></p>
+Building these systems shapes the questions I study, especially where research settings and real-world use diverge.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hqhq1025&show_icons=true&locale=en" alt="hqhq1025" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hqhq1025&" alt="hqhq1025" /></p>
+[Website](https://hqhq1025.github.io/) · [Research interests & current thinking](https://hqhq1025.github.io/blog/the-kind-of-agent-i-want-to-build/) · [Email](mailto:haoqingeric@bupt.edu.cn)
