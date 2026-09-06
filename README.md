@@ -1,5 +1,3 @@
-# Haoqing Wang
-
 ![Profile views](https://komarev.com/ghpvc/?username=hqhq1025&label=Profile%20views&color=0e75b6&style=flat)
 
 BUPT undergraduate · Research intern at Microsoft Research Asia<br>
@@ -17,4 +15,4 @@ I want agent capabilities to be useful beyond programming. My open-source work e
 
 Building these systems shapes the questions I study, especially where research settings and real-world use diverge.
 
-[Website](https://hqhq1025.github.io/) · [Research interests & current thinking](https://hqhq1025.github.io/blog/the-kind-of-agent-i-want-to-build/) · [Email](mailto:haoqingeric@bupt.edu.cn)
+[Website](https://hqhq1025.github.io/) · [Research interests & current thinking](https://hqhq1025.github.io/blog/the-kind-of-agent-i-want-to-build/) · [Email](mailto:haoqingeric@bupt.edu.cn) · WeChat: `whq20051025`
